@@ -6,6 +6,42 @@
 
 
 
+2024/08/09
+
+英文タイトル
+
+The Dilemma of Retaining and Promoting Women to Leadership Positions
+
+Interviews with employees of industrial companies
+
+英文・邦文要旨
+
+　本論文は、育児をしながら仕事を続ける女性の増加にもかかわらず、女性の管理職昇進が少ないという問題を、製造業企業で働く人々へのインタビューをもとに検討する。調査対象企業は、平均的な企業よりも育児休業や短時間勤務の制度が整っており、多くの女性が育休後も専門的な仕事を続けており、男性育休も増加傾向にある。しかし、手厚い両立支援を利用し、短時間勤務を取得するのは女性に限られていた。また、以前よりは減っているが、重要とされる部署ほど、長時間残業を前提とする仕事量となっており、時短中の女性はこうした長時間労働に対応できないことが多かった。さらに、時短者を部下に持つ中級管理職は、個人の能力を伸ばすという目的に従って、負荷の高い仕事を配分していくという従来の方法が当てはまらないことに戸惑いを感じていた。先行研究が指摘してきたように、女性管理職の増加には、両立支援制度だけでは十分ではない。また上司からの評価やサポートは有効だが、それ以上に、過大な労働量を前提とした職場文化そのものを変えていく必要を示唆している。
+
+
+
+This paper examines the issue of the low number of women promoted to managerial positions even if more women continue working after childcare leave, based on interviews with people working in manufacturing companies. The companies surveyed have better childcare support than the average company, many women continue to work after taking childcare leave. However, it was only women who took advantage of the generous work-life balance support and shorter working hours. In addition, although less so than in the past, many employees have been required to work overtime, especially in the most important department, and those how work on shorter hours were often unable to cope with these long working hours. In addition, mid-level managers were perplexed that the traditional method of distributing workloads according to the goal of developing individual skills did not apply to them. As previous studies have shown, work-life support systems alone are not enough to increase the number of female managers. Evaluation and support from supervisors are effective, but more than that, the data suggest the company need to change their workplace culture with excessive workloads.
+
+
+
+This paper examines the issue of the low number of women promoted to managerial positions, despite the fact that an increasing number of women are continuing to work after taking childcare leave. It is based on interviews with people working in manufacturing companies. The surveyed companies demonstrate superior childcare support compared to the average company. Many women continue to work after taking childcare leave. However, it was solely women who availed themselves of the comprehensive work-life balance support and the reduced working hours. Moreover, although to a lesser extent than in the past, a considerable number of employees have been obliged to work overtime, particularly in the most crucial department. Those who work shorter hours were frequently unable to adapt to these extended working hours. Furthermore, mid-level managers expressed confusion regarding the applicability of the traditional method of workload distribution, which is typically geared towards developing individual skills, to their circumstances. Previous studies have demonstrated that work-life support systems, while beneficial, are not a sufficient means of increasing the representation of female managers. The data indicate that, in addition to these support systems, there is a need for a shift in the company's workplace culture, which is currently characterized by excessive workloads.
+
+キーワード
+
+
+
+女性管理職　ワークライフバランス　製造業　ジェンダー　キャリア
+
+women managers, work-life balance, manufacturing company, gender, carrer building
+
+
+
+
+
+
+
+
+
 # 1　問題の所在
 
 ## 1-1　女性の就労継続は管理職への昇進を促すのか
