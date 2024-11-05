@@ -33,7 +33,7 @@ The ways we work, and structure families have transformed dramatically over the 
 
 最終版
 
-
+# Women’s career and family relations in globalizing Japan
 
 Since the mid-1980s, there has been a noticeable and significant increase of foreigners living and working in Japan, alongside a rise in research focused on multicultural realities of various aspects of Japanese society. At the same time, the number of Japanese who reside in foreign countries also increase; however, many incorrectly assumed that Japanese contemporary emigration was driven primarily by personal aspirations such as "self-discovery" and "career building," which led to a disconnect with broader discussions on international migration.
 
